@@ -1,0 +1,5 @@
+public void afficherVariables() {
+        super.afficherVariables();
+        System.out.println("b (masquant) = " + b);
+        System.out.println("c = " + c);
+    }
